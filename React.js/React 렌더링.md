@@ -5,4 +5,7 @@
 - 부모 컴포넌트가 렌더링되었을 때: 위 세 상황에서 자식 컴포넌트 또한 같은 과정으로 렌더링이 진행된다. 불필요한 리렌더링 많이 발생할 수 있고, 이런 리렌더링이 발생하면 할 수록 성능은 저하되니 막아주자!
 
 ## 불필요한 리렌더링 막기
-https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849
+
+클래스형 컴포넌트: https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849
+
+리액트 메모 사용
